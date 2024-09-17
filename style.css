@@ -11,7 +11,7 @@
 
 .semaforo{
     width: 20%;
-    height: 2000px;
+    height: 500px;
     background-color: #000;
     border-radius: 25px;
     padding: 25px;
@@ -22,8 +22,8 @@
 }
 
 .luz{
-    width: 500px;
-    height: 500px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     margin: 10px 0;
     background-color: #555;
